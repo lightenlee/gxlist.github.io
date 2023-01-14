@@ -1,14 +1,14 @@
 lang: zh-CN
 title: Mind & Life
-email: gxli2988@gmail.com
+#email: gxli2988@gmail.com
 description: "less mind conflict, better human life."
 
-url: http://gxlist.github.io
+#url: http://lightenthrive.github.io
 author:
   name: 光武中兴
   picture: 
-github_username: gxlist
-name: lighten.lee
+#github_username: lightenthrive
+#name: lightenlee
 logo: favicon.ico
 timezone: Asia/Shanghai
 
